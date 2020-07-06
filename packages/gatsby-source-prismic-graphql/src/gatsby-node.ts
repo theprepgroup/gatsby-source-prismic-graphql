@@ -1,5 +1,4 @@
 import path from 'path';
-import querystring from 'querystring';
 import { getRootQuery } from '@prismicio/gatsby-source-graphql-universal/getRootQuery';
 import {
   onCreateWebpackConfig,
@@ -306,7 +305,7 @@ exports.createResolvers = (
 
             if (url) {
               return createRemoteFileNode({
-                url: querystring.unescape(url).replace(/\?.*$/g, ''),
+                url: url.replace(/\?.*$/g, ''),
                 store,
                 cache,
                 createNode,
