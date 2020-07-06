@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.6.7](https://github.com/gatsbyjs/gatsby-starter-default/compare/v3.6.5...v3.6.7) (2020-07-06)
+
+**Note:** Version bump only for package @examples/languages
+
 ## [3.6.2](https://github.com/gatsbyjs/gatsby-starter-default/compare/v3.6.1...v3.6.2) (2020-04-28)
 
 **Note:** Version bump only for package @examples/languages
