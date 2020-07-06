@@ -1,7 +1,7 @@
 {
   "name": "@examples/pagination",
   "private": true,
-  "version": "3.6.7",
+  "version": "3.6.8",
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {

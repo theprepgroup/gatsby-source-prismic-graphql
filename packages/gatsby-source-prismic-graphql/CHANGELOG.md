@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.6.8](https://github.com/theprepgroup/gatsby-source-prismic-graphql/compare/v3.6.7...v3.6.8) (2020-07-06)
+
+### Bug Fixes
+
+- skip escaping prismic url ([d2fe68d](https://github.com/theprepgroup/gatsby-source-prismic-graphql/commit/d2fe68dfbdc517dbfa1593a6a1d8adcfc51c8d1a))
+
 ## [3.6.7](https://github.com/theprepgroup/gatsby-source-prismic-graphql/compare/v3.6.5...v3.6.7) (2020-07-06)
 
 **Note:** Version bump only for package @theprepgroup/gatsby-source-prismic-graphql
